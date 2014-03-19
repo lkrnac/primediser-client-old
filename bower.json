@@ -1,0 +1,13 @@
+{
+    "name": "my-project",
+    "version": "0.0.1",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+        "requirejs": "2.1.11",
+        "requirejs-domready": "2.0.1",
+        "angular": "v1.3.0-build.2481+sha.58f5da8"
+    }
+}
