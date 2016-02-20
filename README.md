@@ -1,3 +1,5 @@
+# NOT MAINTAINED
+
 primediser-client
 =================
 
